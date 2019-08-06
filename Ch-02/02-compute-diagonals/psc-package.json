@@ -1,0 +1,12 @@
+{
+  "name": "02-compute-diagonals",
+  "set": "psc-0.13.2",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "effect",
+    "math",
+    "prelude",
+    "psci-support"
+  ]
+}
